@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSON1=Pk
-PERSON2=Bablu
+PERSON1=siva
+PERSON2=subhash
 
 
 echo "$PERSON1 - Hi $PERSON2 ,how are you"
