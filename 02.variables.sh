@@ -1,6 +1,10 @@
 #!/bin/bash
 
-echo "Pk - Hi ,how are you"
-echo "bablu - wtsup? how was your preparation"
-echo "Pk - its good i need to push more to become pro"
-echo "bablu - ok put more effortd you can"
+PERSON1=Pk
+PERSON2=Bablu
+
+
+echo "$PERSON1 - Hi $PERSON2 ,how are you"
+echo "$PERSON2- wtsup $PERSON1? how was your preparation"
+echo "$PERSON1- its good i need to push more to become pro"
+echo "$PERSON2 - ok put more efforts you can"
