@@ -11,5 +11,5 @@ else
   echo "USERID = zero so user has root access"
 fi
 
-dnf install mysql -y
+dnf install mysqll -y
 
