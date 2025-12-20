@@ -21,7 +21,7 @@ dnf install git -y
  exit 1
  fi
 
-dnf install mariadb -y
+dnf install mariadb105-server -y
 
 if [ $?=0 ]
 then
