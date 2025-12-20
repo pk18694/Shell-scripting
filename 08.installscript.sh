@@ -30,6 +30,7 @@ echo "mariadb installation completed"
 else 
 echo "mariadb installation failed"
 exit 1
+fi 
 
 dnf install httpd -y 
 
