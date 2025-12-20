@@ -12,4 +12,11 @@ else
 fi
 
 dnf install git -y
+ if [ $?=0 ] 
+ then  
+ echo "git installation is success"
 
+ else
+ echo "git installation is fail"
+
+ fi
