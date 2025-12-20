@@ -11,4 +11,5 @@ else
   echo "USERID = zero so user has root access"
 fi
 
-yum install mysql -y
+yum install mysql-server -y
+
