@@ -30,13 +30,14 @@ echo "mariadb installation completed"
 else 
 echo "mariadb installation failed"
 exit 1
+
 dnf install httpd -y 
 
 if [ $?=0 ]
 then
 echo "httpd installed succesfullly"
 
-else 
+else
 echo "httpd is not installed "
 
 fi
