@@ -22,4 +22,4 @@ echo "ansible installed unsuccessfully "
 
 exit 1
 fi
-echo "YOU DONE GREAT JOB KEEP IT UP!"
+echo "YOU HAVE DONE A GREAT JOB - KEEP IT UP!"
